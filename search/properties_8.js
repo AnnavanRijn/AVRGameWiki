@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['magnitude_0',['magnitude',['../struct_game_mechanics_1_1_game_effect.html#a043d1f7f9ae6fa14c55b01767e93c0ad',1,'GameMechanics::GameEffect']]]
+  ['width_0',['Width',['../class_game_lib_1_1_game_object.html#ae9ab1d536c82aea1d4921a0d38628d40',1,'GameLib::GameObject']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['position_0',['Position',['../class_game_mechanics_1_1_hit_box.html#aaf7f016bd0c2b0569eec2a80241d0e7d',1,'GameMechanics.HitBox.Position()'],['../class_game_mechanics_1_1_game_object.html#a892642a99ed2ccb839c7b42d897f1d25',1,'GameMechanics.GameObject.Position()']]]
+  ['zoom_0',['Zoom',['../class_game_lib_1_1_camera.html#a4bb5c11b1535445737d8ff78f996bbb0',1,'GameLib::Camera']]]
 ];

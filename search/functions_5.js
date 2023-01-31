@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hold_0',['Hold',['../class_game_mechanics_1_1_mouse_manager.html#a581cfa640fff122553b4af2cf380d31a',1,'GameMechanics.MouseManager.Hold()'],['../class_game_mechanics_1_1_mouse_button_extentions.html#a72201cbb0a283871428544de63a7a6cd',1,'GameMechanics.MouseButtonExtentions.Hold()']]]
+  ['hold_0',['Hold',['../class_game_lib_1_1_mouse_manager.html#a0b6a811328fa171fa89f600b297517a0',1,'GameLib.MouseManager.Hold()'],['../class_game_lib_1_1_mouse_button_extentions.html#a4a417ac6024a5d0f2236581baf0cf488',1,'GameLib.MouseButtonExtentions.Hold()']]]
 ];

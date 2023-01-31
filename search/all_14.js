@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['zoom_0',['Zoom',['../class_game_mechanics_1_1_camera.html#a832286c67db12948270e2b090bf52865',1,'GameMechanics::Camera']]]
+  ['width_0',['Width',['../class_game_lib_1_1_game_object.html#ae9ab1d536c82aea1d4921a0d38628d40',1,'GameLib::GameObject']]]
 ];

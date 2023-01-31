@@ -1,4 +1,4 @@
 var namespaces_dup =
 [
-    [ "GameMechanics", "namespace_game_mechanics.html", "namespace_game_mechanics" ]
+    [ "GameLib", "namespace_game_lib.html", "namespace_game_lib" ]
 ];

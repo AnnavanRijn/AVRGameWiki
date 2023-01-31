@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['nextangle_0',['NextAngle',['../class_game_mechanics_1_1_extentions.html#ad1b8f0f38f8e99b0746dd19cdce4e424',1,'GameMechanics::Extentions']]]
+  ['nextangle_0',['NextAngle',['../class_game_lib_1_1_extentions.html#ad92541c367753eefd7c5cb8e874e90a2',1,'GameLib::Extentions']]]
 ];
